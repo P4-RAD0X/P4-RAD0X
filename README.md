@@ -1,5 +1,5 @@
 Im,P4RAD0X.
-Scurity Researcher & Penetration Tester.
+Security Researcher & Penetration Tester.
 Love to learn new things ...............
 
 <!---
