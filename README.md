@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Mahdi AKA P4RAD0X</p>
+<h3 align="center">My name is Mahdi AKA P4RAD0X</h3>
 
 ###
 
