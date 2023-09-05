@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Interests :</h2>
+<h2 align="left">Interested in :</h2>
 
 ###
 
