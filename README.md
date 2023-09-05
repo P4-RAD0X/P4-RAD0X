@@ -1,33 +1,47 @@
+<h1 align="center">Hey 👋 What's up?</h1>
 
-                                                                                                                                                   
-<center>
-  <pre>
- ███████████  █████ █████  ███████████     █████████   ██████████      █████    █████ █████
-░░███░░░░░███░░███ ░░███  ░░███░░░░░███   ███░░░░░███ ░░███░░░░███   ███░░░███ ░░███ ░░███ 
- ░███    ░███ ░███  ░███ █ ░███    ░███  ░███    ░███  ░███   ░░███ ███   ░░███ ░░███ ███  
- ░██████████  ░███████████ ░██████████   ░███████████  ░███    ░███░███    ░███  ░░█████   
- ░███░░░░░░   ░░░░░░░███░█ ░███░░░░░███  ░███░░░░░███  ░███    ░███░███    ░███   ███░███  
- ░███               ░███░  ░███    ░███  ░███    ░███  ░███    ███ ░░███   ███   ███ ░░███ 
- █████              █████  █████   █████ █████   █████ ██████████   ░░░█████░   █████ █████
-░░░░░              ░░░░░  ░░░░░   ░░░░░ ░░░░░   ░░░░░ ░░░░░░░░░░      ░░░░░░   ░░░░░ ░░░░░ 
-                                                                                           
-                                                                                         
-                                                                                           
-</pre>                                                                                                                                                   
-                                                                                                                                                                                                                  <hr>                      
-&#x2022; 𝐇𝐞𝐲 𝐈`𝐦 𝐏𝐀𝐑𝐀𝐃𝐎𝐗 , 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫 & 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐬𝐭𝐞𝐫 	&#9763;
-<br>
-&#x2022; 𝐋𝐨𝐯𝐞 𝐭𝐨 𝐋𝐞𝐚𝐫𝐧 𝐍𝐞𝐰 𝐭𝐡𝐢𝐧𝐠𝐬 &#128187;
-<br>
+###
 
-<hr>
+<p align="center">My name is Mahdi AKA P4RAD0X</p>
 
-</center>                                                                                                                                                   
-                                                                                                                                                   
+###
 
+<div align="center">
+  <img height="200" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif"  />
+</div>
 
+###
 
-<!---
-P4-RAD0X/P4-RAD0X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🌐 Cyber Security Researcher<br>💻 Pentester & Programmer<br>📚 Always seeking for knowledge<br>☕ Chilling ....</p>
+
+###
+
+<h2 align="left">Interests :</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="php logo"  />
+</div>
+
+###
